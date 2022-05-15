@@ -15,4 +15,7 @@ use App\Http\Controllers\RouanetController;
 |
 */
 
+
+
+
 Route::get('/rouanet',[RouanetController::class,'index']);
